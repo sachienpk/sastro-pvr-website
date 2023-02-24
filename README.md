@@ -6,15 +6,15 @@ Sastro PVR is a web application that provides an Electronic Program Guide (EPG) 
 
 To install Sastro PVR, you will need to have Node.js and NPM installed on your computer. You can then clone the repository and install the dependencies:
 
-git clone https://github.com/your-username/sastro-pvr.git
-cd sastro-pvr
-npm install
+"git clone https://github.com/sachienpk/sastro-pvr-website.git"
+"cd sastro-pvr"
+"npm install"
 
 You will also need to set up a backend API for fetching data about TV shows and channels. You can use an existing API or create your own.
 
 Once you have installed the dependencies and set up your API, you can start the development server:
 
-npm start
+"npm start"
 
 This will launch the app in your default web browser.
 
